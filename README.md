@@ -11,7 +11,7 @@ This website is ready to deploy by itself and requires no dependencies.
 -   Light Weight
 -   Fast Execution
 -   Easy to Use
--   Less than 7 KB
+-   Less than 7KB
 -   Add Number & Symbols
 -   Add Lowercase & Uppercase letters
 -   Simpley Chose Length of Password
